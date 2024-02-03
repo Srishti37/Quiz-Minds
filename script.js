@@ -65,7 +65,7 @@ const questions = [
     },
     {
         question: "What is the currency of Australia",
-        // answers : [
+        answers : [
             {text:"Euro", correct: false},
             {text:"Yen", correct: false},
             {text:"Pond", correct: false},
