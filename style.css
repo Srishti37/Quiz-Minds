@@ -124,7 +124,7 @@ body{
     }
     .card{
         padding: 10px 10px 0px;
-        margin: 0 auto;
+        margin: 100px auto 0px;
         height: 70%;
         justify-content: center;
         align-items: center;
