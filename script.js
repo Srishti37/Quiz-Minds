@@ -207,7 +207,7 @@ function showScore(){
 function showGif(){
     gif.style.display = "Block";
     if(score >= questions.length/2 ){
-       img.src="media/congratulations-7600_512.gif";
+       img.src="media/firework.gif";
     }else{
        img.src="media/cry.gif";
     }
