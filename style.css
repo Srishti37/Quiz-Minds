@@ -8,7 +8,7 @@
 body{
     /* background:linear-gradient(180deg,rgb(247, 70, 70)); */
     background-image: url("media/body-bg-design.png");
-   background-color:rgb(250, 134, 56) ;
+    background-color:rgb(250, 134, 56) ;
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -21,7 +21,7 @@ body{
     /* border: 1px solid red; */
     background-image: url(media/CardBg.png);
     background-size: 100% 100%;
-    background-color: rgb(255, 255, 255);
+    /*background-color: rgb(255, 255, 255);*/
     width:90%;
     max-width: 710px;
     height: 95%;
