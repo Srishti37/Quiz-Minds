@@ -8,7 +8,7 @@
 body{
     /* background:linear-gradient(180deg,rgb(247, 70, 70)); */
     background-image: url("media/body-bg-design.png");
-    background-color:rgb(250, 134, 56) ;
+    /*background-color:rgb(250, 134, 56) ;*/
     background-position: center;
     background-size: cover;
     width: 100%;
