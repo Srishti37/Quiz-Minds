@@ -21,7 +21,7 @@ body{
     /* border: 1px solid red; */
     background-image: url(media/CardBg.png);
     background-size: 100% 100%;
-    /* background-color: rgb(255, 255, 255); */
+    background-color: rgb(255, 255, 255);
     width:90%;
     max-width: 710px;
     height: 95%;
