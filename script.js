@@ -73,15 +73,6 @@ const questions = [
         ]
     },
     {
-        question: "In which state is the Taj Mahal located",
-        answers : [
-            {text:"Rajasthan", correct: false},
-            {text:"Uttar Pradesh", correct: true},
-            {text:"Madhya Pradesh", correct: false},
-            {text:"Haryana", correct: false}
-        ]
-    },
-    {
         question: "Which festival is celebrated with the flying of kites in India",
         answers : [
             {text:"Diwali", correct: false},
