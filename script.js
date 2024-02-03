@@ -9,123 +9,123 @@ const questions = [
         ]
     },
    
-    // {
-    //     question: "What is the capital city of France",
-    //     answers : [
-    //         {text:"Berlin", correct: false},
-    //         {text:"Rome", correct: false},
-    //         {text:"Madrid", correct: false},
-    //         {text:"Paris", correct: true}
-    //     ]
-    // },
-    // {
-    //     question: "Which planet is known as the Red Planet ",
-    //     answers : [
-    //         {text:"Venus", correct: false},
-    //         {text:"Mars", correct: true},
-    //         {text:"Jupiter", correct: false},
-    //         {text:"Saturn", correct: false}
-    //     ]
-    // },
-    // {
-    //     question: "What is the largest ocean on Earth",
-    //     answers : [
-    //         {text:"Indian Ocean", correct: false},
-    //         {text:"Atlantic Ocean", correct: true},
-    //         {text:"Southern Ocean", correct: false},
-    //         {text:"Pacific Ocean", correct: false}
-    //     ]
-    // },
-    // {
-    //     question: "What is the capital city of Japan ",
-    //     answers : [
-    //         {text:"Seoul", correct: false},
-    //         {text:"Tokyo", correct: true},
-    //         {text:"Beijing", correct: false},
-    //         {text:"Bangkok", correct: false}
-    //     ]
-    // },
-    // {
-    //     question: "In which state is the Taj Mahal located ",
-    //     answers : [
-    //         {text:"Uttar Pradesh", correct: true},
-    //         {text:"Rajasthan", correct: false},
-    //         {text:"Delhi", correct: false},
-    //         {text:"Punjab", correct: false}
-    //     ]
-    // },
-    // {
-    //     question: "Who painted the Mona Lisa",
-    //     answers : [
-    //         {text:"Vincent van Gogh", correct: false},
-    //         {text:"Pablo Picasso", correct: false},
-    //         {text:"Leonardo da Vinci", correct: true},
-    //         {text:"Michelangelo", correct: false}
-    //     ]
-    // },
-    // {
-    //     question: "What is the currency of Australia",
-    //     answers : [
-    //         {text:"Euro", correct: false},
-    //         {text:"Yen", correct: false},
-    //         {text:"Pond", correct: false},
-    //         {text:"Dollar", correct: true}
-    //     ]
-    // },
-    // {
-    //     question: "In which state is the Taj Mahal located",
-    //     answers : [
-    //         {text:"Rajasthan", correct: false},
-    //         {text:"Uttar Pradesh", correct: true},
-    //         {text:"Madhya Pradesh", correct: false},
-    //         {text:"Haryana", correct: false}
-    //     ]
-    // },
-    // {
-    //     question: "Which festival is celebrated with the flying of kites in India",
-    //     answers : [
-    //         {text:"Diwali", correct: false},
-    //         {text:"Holi", correct: false},
-    //         {text:"Makar Sankranti", correct: true},
-    //         {text:"Navratri", correct: false}
-    //     ]
-    // },
-    // {
-    //     question: "Which country is known as the 'Land of the Rising Sun'",
-    //     answers : [
-    //         {text:"China", correct: false},
-    //         {text:"Japan", correct: true},
-    //         {text:"South Korea ", correct: false},
-    //         {text:"Thailand", correct: false}
-    //     ]
-    // },
-    // {
-    //     question: "Which Indian state is known as the 'Land of Five Rivers'",
-    //     answers : [
-    //         {text:"Punjab", correct: true},
-    //         {text:"Gujarat", correct: false},
-    //         {text:"Rajasthan ", correct: false},
-    //         {text:"Maharashtra", correct: false}
-    //     ]
-    // },
-    // {
-    //     question: "What is the largest mammal on Earth",
-    //     answers : [
-    //         {text:"Elephant", correct: false},
-    //         {text:"Giraffe", correct: false},
-    //         {text:"Gorilla", correct: false},
-    //         {text:"Blue Whale", correct: true}
-    //     ]
-    // },
-    // {
-    //     question: "Who was the first Prime Minister of India",
-    //     answers : [
-    //         {text:"Indira Gandhi", correct: false},
-    //         {text:"Sardar Patel", correct: false},
-    //         {text:"Jawaharlal Nehru", correct: true},
-    //         {text:"Rajendra Prasad", correct: false}
-    //     ]
-    // }
+    {
+         question: "What is the capital city of France",
+         answers : [
+             {text:"Berlin", correct: false},
+             {text:"Rome", correct: false},
+             {text:"Madrid", correct: false},
+             {text:"Paris", correct: true}
+         ]
+     },
+     {
+         question: "Which planet is known as the Red Planet ",
+         answers : [
+             {text:"Venus", correct: false},
+             {text:"Mars", correct: true},
+             {text:"Jupiter", correct: false},
+             {text:"Saturn", correct: false}
+         ]
+     },
+     {
+         question: "What is the largest ocean on Earth",
+         answers : [
+            {text:"Indian Ocean", correct: false},
+            {text:"Atlantic Ocean", correct: true},
+            {text:"Southern Ocean", correct: false},
+            {text:"Pacific Ocean", correct: false}
+        ]
+    },
+    {
+        question: "What is the capital city of Japan ",
+        answers : [
+            {text:"Seoul", correct: false},
+            {text:"Tokyo", correct: true},
+            {text:"Beijing", correct: false},
+            {text:"Bangkok", correct: false}
+        ]
+    },
+    {
+        question: "In which state is the Taj Mahal located ",
+        answers : [
+            {text:"Uttar Pradesh", correct: true},
+             {text:"Rajasthan", correct: false},
+            {text:"Delhi", correct: false},
+            {text:"Punjab", correct: false}
+        ]
+    },
+    {
+        question: "Who painted the Mona Lisa",
+        answers : [
+            {text:"Vincent van Gogh", correct: false},
+            {text:"Pablo Picasso", correct: false},
+            {text:"Leonardo da Vinci", correct: true},
+            {text:"Michelangelo", correct: false}
+        ]
+    },
+    {
+        question: "What is the currency of Australia",
+        // answers : [
+            {text:"Euro", correct: false},
+            {text:"Yen", correct: false},
+            {text:"Pond", correct: false},
+            {text:"Dollar", correct: true}
+        ]
+    },
+    {
+        question: "In which state is the Taj Mahal located",
+        answers : [
+            {text:"Rajasthan", correct: false},
+            {text:"Uttar Pradesh", correct: true},
+            {text:"Madhya Pradesh", correct: false},
+            {text:"Haryana", correct: false}
+        ]
+    },
+    {
+        question: "Which festival is celebrated with the flying of kites in India",
+        answers : [
+            {text:"Diwali", correct: false},
+            {text:"Holi", correct: false},
+            {text:"Makar Sankranti", correct: true},
+            {text:"Navratri", correct: false}
+        ]
+    },
+    {
+        question: "Which country is known as the 'Land of the Rising Sun'",
+        answers : [
+            {text:"China", correct: false},
+            {text:"Japan", correct: true},
+            {text:"South Korea ", correct: false},
+            {text:"Thailand", correct: false}
+        ]
+    },
+    {
+        question: "Which Indian state is known as the 'Land of Five Rivers'",
+        answers : [
+            {text:"Punjab", correct: true},
+            {text:"Gujarat", correct: false},
+            {text:"Rajasthan ", correct: false},
+            {text:"Maharashtra", correct: false}
+        ]
+    },
+    {
+        question: "What is the largest mammal on Earth",
+        answers : [
+            {text:"Elephant", correct: false},
+            {text:"Giraffe", correct: false},
+            {text:"Gorilla", correct: false},
+            {text:"Blue Whale", correct: true}
+        ]
+    },
+    {
+        question: "Who was the first Prime Minister of India",
+        answers : [
+            {text:"Indira Gandhi", correct: false},
+            {text:"Sardar Patel", correct: false},
+            {text:"Jawaharlal Nehru", correct: true},
+            {text:"Rajendra Prasad", correct: false}
+        ]
+    }
     ]
 
 
